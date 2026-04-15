@@ -38,4 +38,50 @@
   background-color: #35AFBF;
   border: none;
   border-radius: 5px;
+}
+
+.glava4 {
+  text-align: center;
+  margin: 50px;
+}
+.glava4 p {
+  color: grey;
+}
+
+.glava5 {
+  border: 1px solid rgb(212, 212, 212);
+  width: 240px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 20px;
+}
+.glava5 p {
+  color: grey;
+}
+
+.glava7 {
+  background-color: #D1F4F9;
+}
+
+.glava6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.icon1 {
+  width: 83px;
+  height: 58px;
+  background-color: #35AFBF;
+  border-radius: 100%;
+  padding-top: 25px;
+  margin: auto;
+}
+
+.glava8 p {
+  font-size: 18px;
+  color: grey;
 }/*# sourceMappingURL=style.css.map */
